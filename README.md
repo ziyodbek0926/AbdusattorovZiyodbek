@@ -39,7 +39,11 @@
    <a href="https://www.codewars.com/users/Ziyodbek/">
    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="30px"></a>
     &nbsp;
+</div>
+<br><br><br>
+
 ![CodeWars](https://www.codewars.com/users/Ziyodbek/badges/large)
+
 <br><br>
 
 <br>
